@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Maximum Security",
+    "description": "Your security and privacy are protected with cutting-edge security protocols.",
+    "icon": "shield"
+  },
+  {
+    "id": 2,
+    "title": "Instant Transactions",
+    "description": "Execute your transactions in real time, without delays.",
+    "icon": "zap"
+  },
+  {
+    "id": 3,
+    "title": "Optimized Fees",
+    "description": "Enjoy some of the lowest fees in the market.",
+    "icon": "trending-down"
+  },
+  {
+    "id": 4,
+    "title": "Powerful Analytics",
+    "description": "Track your portfolio with advanced analytics and real-time insights.",
+    "icon": "bar-chart"
+  },
+  {
+    "id": 5,
+    "title": "24/7 Support",
+    "description": "Our dedicated support team is available around the clock to assist you.",
+    "icon": "headphones"
+  },
+  {
+    "id": 6,
+    "title": "Multi-Chain Support",
+    "description": "Trade across multiple blockchains seamlessly from a single platform.",
+    "icon": "network"
+  }
+]
